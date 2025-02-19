@@ -17,6 +17,27 @@ https://agentia.world/
 
 ---
 
+## Goals
+
+Monetize Agentic AI: Teaching + AI Agents as Components + Freelancing + Agentic Startups
+
+## Roadmaps
+
+[OpenAI Roadmap](https://www.linkedin.com/posts/peter-gostev_openai-have-uncharacteristically-shared-activity-7295551112193945600--5br/)
+
+[Our Learning Roadmap](https://github.com/panaversity/learn-agentic-ai/tree/main/agentic_ai_startup_roadmap)
+
+### Our Agentic Startups Roadmap
+
+1. Agentia World: AI Agents as Components (The Parent Startup: AI Agent and MCP Server Marketplace)
+2. Panaversity: Agentic AI Learning with Agentic AI (Startup + Agentia Agents for Customized Services)
+3. Customer Service AI Agents: [Call Center AI Agents](https://www.economist.com/business/2024/10/16/can-artificial-intelligence-rescue-customer-service) (Startup + Agentia Agents for Customized Services)
+4. Customer Acquisition AI Agent: LinkedIn AI Agent (Startup + Agentia Agents for Customized Services)
+5. Communication Hub AI Agent: Email + Whatsapp + LinkedIn + Slack Automated Management (Startup + Agentia Agents for Customized Services)
+
+
+---
+
 
 ![Architecture](arch.jpeg)
 
@@ -51,6 +72,10 @@ https://www.linkedin.com/posts/how-do-i-use-ai_the-next-generation-of-ai-agents-
    Meta-agents oversee networks of agents, ensuring harmony and preventing conflicts. For instance:
    - A city-level meta-agent orchestrates public utilities, law enforcement, and civic services.
    - A global sustainability agent ensures environmental balance by coordinating across industries and governments.
+
+6. **Orchestration Agent**
+   An orchestration agent is essentially the “conductor” of a multi-agent system, ensuring that all    specialized agents work together efficiently toward a common objective.
+   - https://chatgpt.com/share/67b15ffa-0b30-8001-800a-fff07841c6cd
 
 ---
 
